@@ -1,4 +1,4 @@
-# gameboy-1337
+# gameboy-doodle
 Small pixel doodle after a weekend in the countryside with mjutt
 
 
